@@ -99,3 +99,40 @@ cout << &food;
 string food = "Pissa";
 string* ptr = &food;
 ```
+[Date => 25/08/2021 => D3](#)
+
+Complete with a freshed knowledge in C++ functions
+
++ function definition
++ function call
++ function declaration
+
+```cpp
+data_type function_name(param1, param2, ...);
+
+int main(){
+
+  function_name(param1, param2, ...);
+}
+
+function_name(param1, param2, ...){
+  // some code 
+}
+
+```
+
+*function parameter refers to the variables of the function*
+
+*when a parameter is passed to a function, its known as __arguement__*
+
+### function overloading
+```cpp
+data_type1 function_name1(param1, param2, ...){
+  // some code 
+}
+
+data_type2 function_name1(param3, param4, ...){
+  // some code 
+}
+
+```

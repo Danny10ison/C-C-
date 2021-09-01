@@ -2,5 +2,17 @@
 
 Full Road map for C and C++ programming
 
-1. Started a #100daysofcode -> #100daysofC++
-  + Just go through all content in the first [part](https://www.w3schools.com/cpp/cpp_pointers_modify.asp).
+1. I Started a #100daysofcode -> #100daysofC++
+  + Gone through all content in C++, [W3Schools C++](https://www.w3schools.com/cpp/default.asp).
+
+  + I Have refreshed my knowledge in C++.
+    + The Basics
+    + Functions
+    + Classes
+    + Objects
+    + File Handling
+    + Exception Handling
+
+  + I have completed excercises on the website, finished with 3 stars.
+     
+
